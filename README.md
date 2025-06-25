@@ -1,5 +1,5 @@
 # 📁 Event Management System (MySQL Project)
-#https://github.com/kalaimanu/event-management
+#https://github.com/kalaimani/event-management
 ## 📌 Description
 This is a database project for managing events using MySQL. It consists of 8 related tables covering key entities like events, tickets, audience, payments, and more.
 
