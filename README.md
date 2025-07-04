@@ -1,4 +1,5 @@
-# 📁 Event Management System (MySQL Project)
+# 📁 EMS
+
 ## 📌 Description
 This is a database project for managing events using MySQL. It consists of 8 related tables covering key entities like events, tickets, audience, payments, and more.
 
